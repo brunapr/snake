@@ -10,7 +10,7 @@ A classic snake game built with React and TypeScript, created for fun and learni
 
 ## 🖼️ Screenshot
 
-![Snake Game Screenshot](/snake.png)
+![Snake Game Screenshot](/public/snake.png)
 
 🔗 **[Play Now](https://brunapr.github.io/snake)**
 
